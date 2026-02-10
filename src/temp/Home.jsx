@@ -4,7 +4,7 @@ import axios from "axios";
 import JobList from "./JobList";
 import JobDetails from "./JobDetails";
 import Navbar from "./Navbar";
-import "./temp.css"  
+
 
 
 

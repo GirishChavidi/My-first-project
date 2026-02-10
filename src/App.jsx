@@ -1,4 +1,5 @@
 import Home from "./temp/Home";
+import "./App.css"
 
 const App = () => {
   return (
